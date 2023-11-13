@@ -3,7 +3,7 @@
 namespace app\models;
 
 
-class Produto {
+class Produtos {
 
     public function create() {
         return 'create';

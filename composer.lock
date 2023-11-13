@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f6c74de69fcc4e3fdbf14f2479a8d246",
+    "content-hash": "b94e068117c1c57bd2daf468ea7ac812",
     "packages": [
         {
             "name": "cboden/ratchet",
@@ -231,50 +231,6 @@
                 }
             ],
             "time": "2023-08-27T10:13:57+00:00"
-        },
-        {
-            "name": "php-activerecord/php-activerecord",
-            "version": "v1.2.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/jpfuentes2/php-activerecord.git",
-                "reference": "e6d2dad090617336dee730190be0294c5f132c69"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/jpfuentes2/php-activerecord/zipball/e6d2dad090617336dee730190be0294c5f132c69",
-                "reference": "e6d2dad090617336dee730190be0294c5f132c69",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.3.0"
-            },
-            "require-dev": {
-                "pear/log": "~1.12",
-                "pear/pear_exception": "1.0-beta1",
-                "phpunit/phpunit": "4.*"
-            },
-            "type": "library",
-            "autoload": {
-                "files": [
-                    "ActiveRecord.php"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "description": "php-activerecord is an open source ORM library based on the ActiveRecord pattern.",
-            "homepage": "http://www.phpactiverecord.org/",
-            "keywords": [
-                "activerecord",
-                "orm"
-            ],
-            "support": {
-                "issues": "https://github.com/jpfuentes2/php-activerecord/issues",
-                "source": "https://github.com/jpfuentes2/php-activerecord/tree/master"
-            },
-            "time": "2017-06-11T22:05:37+00:00"
         },
         {
             "name": "phpmailer/phpmailer",
@@ -715,16 +671,16 @@
         },
         {
             "name": "react/event-loop",
-            "version": "v1.4.0",
+            "version": "v1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/reactphp/event-loop.git",
-                "reference": "6e7e587714fff7a83dcc7025aee42ab3b265ae05"
+                "reference": "bbe0bd8c51ffc05ee43f1729087ed3bdf7d53354"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/reactphp/event-loop/zipball/6e7e587714fff7a83dcc7025aee42ab3b265ae05",
-                "reference": "6e7e587714fff7a83dcc7025aee42ab3b265ae05",
+                "url": "https://api.github.com/repos/reactphp/event-loop/zipball/bbe0bd8c51ffc05ee43f1729087ed3bdf7d53354",
+                "reference": "bbe0bd8c51ffc05ee43f1729087ed3bdf7d53354",
                 "shasum": ""
             },
             "require": {
@@ -775,7 +731,7 @@
             ],
             "support": {
                 "issues": "https://github.com/reactphp/event-loop/issues",
-                "source": "https://github.com/reactphp/event-loop/tree/v1.4.0"
+                "source": "https://github.com/reactphp/event-loop/tree/v1.5.0"
             },
             "funding": [
                 {
@@ -783,7 +739,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2023-05-05T10:11:24+00:00"
+            "time": "2023-11-13T13:48:05+00:00"
         },
         {
             "name": "react/promise",
