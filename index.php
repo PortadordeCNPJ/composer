@@ -2,6 +2,6 @@
 
 require "vendor/autoload.php";
 
-$produto = new services\Search;
+$produto = new app\models\Produtos;
 
-echo $produto->search();
+echo $produto->create();
