@@ -1,6 +1,6 @@
 <?php 
 
-namespace services\Search;
+namespace asw\services;
 
 
 class Search {
