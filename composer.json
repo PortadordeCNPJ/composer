@@ -8,8 +8,16 @@
     },
     "autoload": {
         "psr-4": {
-            "GuilhermeMuller2\\Composer\\": "src/"
-        }
+            "GuilhermeMuller2\\Composer\\": "src/",
+            "app\\": "app",
+            "asw\\": [
+                "services",
+                "jobs"
+            ]
+        },
+        "files": [
+            "functions/helpers.php"
+        ]
     },
     "authors": [
         {
