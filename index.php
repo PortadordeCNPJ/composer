@@ -10,3 +10,5 @@ require_once "jobs/Register.php";
 $produto = new asw\jobs\Register;
 
 echo $produto->register();
+
+//Usando variaveis de ambiente
